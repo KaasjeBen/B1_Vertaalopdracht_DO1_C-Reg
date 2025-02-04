@@ -17,3 +17,17 @@ C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharp
 C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.csproj.CoreCompileInputs.cache
 C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.dll
 C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.pdb
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.AssemblyInfoInputs.cache
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.AssemblyInfo.cs
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.csproj.CoreCompileInputs.cache
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.sourcelink.json
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.dll
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.pdb
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.exe
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.deps.json
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.runtimeconfig.json
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.runtimeconfig.dev.json
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.dll
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.pdb
+C:\Users\bjlin\Documents\native\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.genruntimeconfig.cache
